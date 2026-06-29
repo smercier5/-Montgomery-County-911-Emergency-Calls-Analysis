@@ -4,7 +4,10 @@
 This project analyzes emergency 911 calls from Montgomery County, Pennsylvania using Python and Pandas to identify trends in emergency response activity.
 
 ## Dataset
+
+The dataset used in this project is publicly available on Kaggle.
 Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA
+Download the dataset and place `911.csv` in the `data/` folder before running the notebook.
 
 ## Tools Used
 - Python
