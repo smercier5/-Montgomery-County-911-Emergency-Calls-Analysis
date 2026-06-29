@@ -25,7 +25,7 @@ Dataset - [911.csv.zip](Data/911.csv.zip)
 - What patterns exist between Fire, EMS, and Traffic incidents?
 
 ## Results 
-[911 Calls Project.ipynb](911 Calls Project.ipynb)
+[911 Calls Project.ipynb](Results/911 Calls Project.ipynb)
 
 ## Skills Demonstrated
 - Data Cleaning
